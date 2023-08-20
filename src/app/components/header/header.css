@@ -1,0 +1,11 @@
+.header-main-items-toolbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* padding-right: 200px; */
+}
+
+.header-logo-box {
+    width: 170px;
+    height: 50px;
+}

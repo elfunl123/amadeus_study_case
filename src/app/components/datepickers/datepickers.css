@@ -1,0 +1,19 @@
+.datepickers-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    width: auto;
+    height: auto;
+    gap: 30px;
+}
+
+.input-container{
+    display: flex;
+    justify-content: start;
+    align-items: flex-start;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+    
+}

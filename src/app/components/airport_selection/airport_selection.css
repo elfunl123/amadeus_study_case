@@ -1,0 +1,9 @@
+.airport-selection-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    width: auto;
+    height: auto;
+    gap: 5px;
+}

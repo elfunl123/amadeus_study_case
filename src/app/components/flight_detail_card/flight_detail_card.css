@@ -1,0 +1,91 @@
+.flight-detail-card-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    width: 1000px;
+    height: 100px;
+    gap: 140px;
+    background-color: transparent;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: blue;
+    border-width: 2px;
+}
+
+.aiport-and-time{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+    gap: 20px;
+}
+
+.code-text{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: black;
+}
+
+.time-text{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 28px;
+    color: black;
+}
+
+.flight-time{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+    gap: 10px;
+}
+
+.flight-time-text{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: black;
+}
+
+.price{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: auto;
+}
+
+.price-text{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 28px;
+    color: black;
+}
+
+.buy-button {
+    text-transform: initial !important;
+    color: blue !important;
+    font-Size: 14px;
+    font-weight: 500;
+    background-color: white !important;
+}
+
+.buy-button:hover {
+    color: white !important;
+    background-color: blue !important;
+}

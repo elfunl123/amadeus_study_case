@@ -1,0 +1,12 @@
+.search-flight-button{
+    text-transform: initial !important;
+    color: blue !important;
+    font-Size: 14px;
+    font-weight: 500;
+    background-color: white !important;
+}
+
+.search-flight-button:hover{
+    color: white !important;
+    background-color: blue !important;
+}
